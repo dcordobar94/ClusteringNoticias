@@ -2,11 +2,9 @@ Trabajo realizado por David Córdoba Ruiz
 
 #ARCHIVOS ADJUNTOS
 
-Se adjuntan 4 ficheros: 
+Se adjuntan 3 ficheros: 
 
 -Un pdf con la explicación de lo que se ha hecho
-
--El Corpus utilizado
 
 -3 archivos .py
 
@@ -15,6 +13,9 @@ Se adjuntan 4 ficheros:
 	El archivo Clustering.py tiene las funciones para la ejecución de la clusterización incluyendo la implementación de un cluster propio.
 
 	El archivo index.py permite la ejecución de todos los pasos realizados explicados en la memoria.
+	
+
+El Corpus utilizado son un conjunto de noticias en formato html que debido a su peso no se puede adjuntar junto con el proyecto.
 
 #EJECUCION INDEX.PY
 
